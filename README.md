@@ -1,4 +1,4 @@
-# Jason Lay
+# Jason Lay 
 
 **Digital Craftsman (developer)**
 
@@ -40,19 +40,5 @@ I am a learner full-stack developer who loves learning and building digital proj
 
 <details>
  <summary><h3> Jason's coding journey </h3></summary>
-    I started my coding journey in 2021 
+    I finished highschool in December 2020 and I started my coding journey in 2021 but I soon dropped it and I was occupied with other problems and activities in life. In may 2022 I started my coding journey again and have loved it ever since. I plan to become a master of my craft, and this is only the beginning of my journey, stay tune for any update. 
 </details>
-<!--
-**Beast-Code9999/Beast-Code9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
