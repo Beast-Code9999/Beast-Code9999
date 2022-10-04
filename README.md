@@ -25,13 +25,15 @@ I am a learner full-stack developer who loves learning and building digital proj
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-
-
-
-
-
 <br />
 
+#
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Beast-Code9999&theme=github-dark-blue)](https://git.io/streak-stats)
+
+#
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Beast-Code9999&show_icons=true&theme=algolia)
 <!--
 **Beast-Code9999/Beast-Code9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
