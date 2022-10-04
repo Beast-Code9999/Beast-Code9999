@@ -39,7 +39,7 @@ I am a learner full-stack developer who loves learning and building digital proj
 # 
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3> Jason's coding journey </h3></summary>
     I started my coding journey in 2021 
 </details>
 <!--
