@@ -34,6 +34,14 @@ I am a learner full-stack developer who loves learning and building digital proj
 #
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Beast-Code9999&show_icons=true&theme=algolia)
+
+
+# 
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+    I started my coding journey in 2021 
+</details>
 <!--
 **Beast-Code9999/Beast-Code9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
