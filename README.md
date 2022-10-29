@@ -1,5 +1,11 @@
 # Jason Lay 
 
+#
+#
+This year's goal: Finish JavaScript Course
+#
+#
+
 **Digital Craftsman (developer)**
 
 I am a learner full-stack developer who loves learning and building digital projects. I hope to one day benefit the world as well as those who are tangible through problem solving using electronic computers and other various existing technologies. This is my beginner journey, I shall improve one step at a time, solving one problem at a time, and taking one day at a time before becoming a master of my craft. All of my projects are currently for learning purporses, and are therefore not for commercial use. All of my work will be published on this github profile until later change. 
@@ -35,7 +41,6 @@ I am a learner full-stack developer who loves learning and building digital proj
 #
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Beast-Code9999&show_icons=true&theme=algolia)
-
 
 # 
 
