@@ -1,7 +1,7 @@
 # Jason Lay 
 
 #
-## This year's goal: Finish programming course
+## This year's goal: Finish programming course & CS50X
 #
 
 **Digital Craftsman (developer)**
