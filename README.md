@@ -1,7 +1,7 @@
 # Jason Lay 
 
 #
-## This year's goal: Finish Half of JavaScript Course
+## This year's goal: Finish programming course
 #
 
 **Digital Craftsman (developer)**
