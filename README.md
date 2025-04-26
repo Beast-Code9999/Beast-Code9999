@@ -66,62 +66,7 @@ I am a learner full-stack developer who loves learning and building digital proj
   </tr>
 </table>
 
-<table>
-  <tr>
-    <th>🛠️ Languages</th>
-    <th>📚 Frameworks & Libraries</th>
-    <th>🗄️ Databases</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/><br>HTML</a>&nbsp;&nbsp;&nbsp;
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/><br>CSS</a>&nbsp;&nbsp;&nbsp;
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/><br>JS</a>
-      <br><br>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/><br>Python</a>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br>React</a>&nbsp;&nbsp;&nbsp;
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><br>Django</a>
-      <br><br>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/><br>Sass</a>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br>MySQL</a>&nbsp;&nbsp;&nbsp;
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br>SQLite</a>
-    </td>
-  </tr>
-</table>
 
-<table>
-  <tr>
-    <th>🚀 Hosting / Deployment</th>
-    <th>🛠️ Tools & Platforms</th>
-    <th>🎨 Design & Collaboration</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40"/><br>Heroku</a>&nbsp;&nbsp;&nbsp;
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux</a>
-      <br><br>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" height="40"/><br>Arch</a>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br>Git</a>&nbsp;&nbsp;&nbsp;
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br>VSCode</a>
-      <br><br>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/><br>NPM</a>&nbsp;&nbsp;&nbsp;
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/><br>Bitbucket</a>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br>Figma</a>&nbsp;&nbsp;&nbsp;
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="40" height="40"/><br>GIMP</a>
-      <br><br>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/><br>Trello</a>&nbsp;&nbsp;&nbsp;
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_%28Software%29_logo.svg" width="40" height="40"/><br>Jira</a>
-    </td>
-  </tr>
-</table>
           
 
 <br />
