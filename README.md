@@ -13,48 +13,67 @@ I am a learner full-stack developer who loves learning and building digital proj
 --- 
 
 ## 🛠️ Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40px"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40px"></td>
+  </tr>
+</table>
 
 ## 📚 Frameworks & Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px"></td>
+  </tr>
+</table>
 
 ## 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="40px"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40px"></td>
+  </tr>
+</table>
 
 ## 🚀 Hosting / Deployment
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40px"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40px"></td>
+  </tr>
+</table>
 
 ## 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="40px"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" width="40px"></td>
+  </tr>
+</table>
 
 ## 🎨 Design & Collaboration
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original-wordmark.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40px"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" width="40px"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40px"></td>
+  </tr>
+</table>
+
 
 
           
