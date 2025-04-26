@@ -41,7 +41,7 @@ I am a learner full-stack developer who loves learning and building digital proj
 
 <table>
   <tr>
-    <th>🚀 Hosting / Deployment</th>
+    <th>🚀 Hosting / OS</th>
     <th>🛠️ Tools & Platforms</th>
     <th>🎨 Design & Collaboration</th>
   </tr>
@@ -61,7 +61,7 @@ I am a learner full-stack developer who loves learning and building digital proj
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
       <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="40" height="40"/></a><br>
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/></a>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_%28Software%29_logo.svg" width="40" height="40"/></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"  width="40" height="40"/></a>
     </td>
   </tr>
 </table>
