@@ -14,59 +14,51 @@ I am a learner full-stack developer who loves learning and building digital proj
 
 <h2>🚀 Skills</h2>
 
-<table>
-  <tr>
-    <th>🛠️ Languages</th>
-    <th>📚 Frameworks & Libraries</th>
-    <th>🗄️ Databases</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px"><br>HTML<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px"><br>CSS<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px"><br>JavaScript<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40px"><br>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"><br>React<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px"><br>Django<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px"><br>Sass
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"><br>MySQL<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px"><br>SQLite
-    </td>
-  </tr>
-</table>
+## 🚀 Skills
 
-<br>
+### 🛠️ Languages
+<p align="left">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" alt="HTML"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" alt="CSS"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40" alt="Python"/></a>
+</p>
 
-<table>
-  <tr>
-    <th>🚀 Hosting / Deployment</th>
-    <th>🛠️ Tools & Platforms</th>
-    <th>🎨 Design & Collaboration</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40px"><br>Heroku<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"><br>Linux<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40px"><br>Arch Linux
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"><br>Git<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"><br>VSCode<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px"><br>NPM<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40px"><br>Bitbucket
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"><br>Figma<br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="40px"><br>GIMP<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40px"><br>Trello<br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_%28Software%29_logo.svg" width="40px"><br>Jira
-    </td>
-  </tr>
-</table>
+### 📚 Frameworks & Libraries
+<p align="left">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="Sass"/></a>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/></a>
+</p>
+
+### 🚀 Hosting / Deployment
+<p align="left">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40" alt="Heroku"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="Arch Linux"/></a>
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40" alt="Bitbucket"/></a>
+</p>
+
+### 🎨 Design & Collaboration
+<p align="left">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/></a>&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="40" height="40" alt="GIMP"/></a>&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello"/></a>&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_%28Software%29_logo.svg" width="40" height="40" alt="Jira"/></a>
+</p>
 
 
 
