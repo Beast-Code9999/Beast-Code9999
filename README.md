@@ -1,7 +1,7 @@
 # Jason Lay 
 
 #
-## This year's goal: Finish programming course 
+## This year's goal: Finish programming course From The Odin Project
 #
 
 **Digital Craftsman (developer)**
